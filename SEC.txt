@@ -1,1 +1,3 @@
+<<<<<<< Updated upstream
 Something to compliment - Added
+>>>>>>> Stashed changes
