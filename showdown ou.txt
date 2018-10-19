@@ -1,0 +1,169 @@
+Doots (Ditto) @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Transform  
+
+Picachoo (Mimikyu) @ Red Card  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Claw  
+- Shadow Sneak  
+
+Lel (Tapu Lele) @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+- Calm Mind  
+
+Ken (Crobat) @ Black Sludge  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Cross Poison  
+- Roost  
+- Defog  
+
+Steven (Xurkitree) @ Psychium Z  
+Ability: Beast Boost  
+IVs: 0 Atk  
+- Tail Glow  
+- Thunder  
+- Grass Knot  
+- Hypnosis  
+
+Satan (Volcarona) @ Life Orb  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Bug Buzz  
+- Fire Blast  
+- Psychic  
+
+Edgelord (Absol) @ Scope Lens  
+Ability: Super Luck  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Psycho Cut  
+- Night Slash  
+- Swords Dance
+
+Hag (Nidoqueen) (F) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Stealth Rock  
+- Ice Beam  
+- Sludge Wave
+
+Void (Espeon) @ Choice Specs  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Psyshock  
+- Psychic  
+- Shadow Ball
+
+Allergies (Roserade) @ Assault Vest  
+Ability: Technician  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Energy Ball  
+- Dazzling Gleam
+
+Ozzie (Porygon-Z) @ Normalium Z  
+Ability: Adaptability  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Shadow Ball  
+- Conversion
+
+Scorp (Gliscor) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Substitute  
+- Protect
+
+Samsung (Rotom-Wash) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpA  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Defog
+
+Illuminati (Sigilyph) @ Flame Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Cosmic Power  
+- Stored Power  
+- Roost  
+- Psycho Shift
+
+Foxy (Delphox) @ Red Card  
+Ability: Magician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fire Blast  
+- Psychic  
+- Grass Knot
+
+Prickly (Toxapex) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic Spikes
+
+What (Quagsire) @ Rocky Helmet  
+Ability: Unaware  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Curse
+
+Shigechi (Tropius) @ Sitrus Berry  
+Ability: Harvest  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Leech Seed  
+- Toxic  
+- Air Slash
