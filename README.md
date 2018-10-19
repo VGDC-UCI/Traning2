@@ -1,6 +1,6 @@
 # VGDC Git Workshop
 
-## Basic Get Concepts:
+## Basic `git` Concepts:
 
 - `git clone <repository-url-here>` - clone a remote repository into a new folder in the current directory.
 - `git status` - show current status of the repo.
